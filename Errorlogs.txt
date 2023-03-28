@@ -1,0 +1,81 @@
+An error occurred creating the form. See Exception.InnerException for details.  The error is: Object reference not set to an instance of an object.
+                                            
+CraxsRat
+                                              
+8/19/2022 11:50:03 PM
+                                               
+Create__Instance__
+                                               
+Object reference not set to an instance of an object.An error occurred creating the form. See Exception.InnerException for details.  The error is: Object reference not set to an instance of an object.
+                                            
+CraxsRat
+                                              
+8/19/2022 11:50:48 PM
+                                               
+Create__Instance__
+                                               
+Object reference not set to an instance of an object.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:11 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:12 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:12 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:13 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:13 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:13 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:13 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.Conversion from string "." to type 'Double' is not valid.
+                                            
+Microsoft.VisualBasic
+                                              
+9/28/2022 12:04:18 AM
+                                               
+ToDouble
+                                               
+Input string was not in a correct format.
